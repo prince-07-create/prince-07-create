@@ -27,7 +27,7 @@
 - 🌱 I’m currently learning **Go (Golang)** and **Docker Swarm**.
 - 👯 I’m looking to collaborate on **Open Source projects related to Web Development or Automation**.
 - 💬 Ask me about **React, Node.js, Express, and MongoDB**.
-- 📫 How to reach me: **alex.doe.dev@email.com**
+- 📫 How to reach me: **tkprince432@gmail.com**
 - ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
 
 ---
