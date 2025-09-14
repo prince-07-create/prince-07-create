@@ -24,11 +24,10 @@
 ### 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on a **SaaS platform for project management**.
-- 🌱 I’m currently learning **Go (Golang)** and **Docker Swarm**.
+- 🌱 I’m currently learning **Spring Security**.
 - 👯 I’m looking to collaborate on **Open Source projects related to Web Development or Automation**.
-- 💬 Ask me about **React, Node.js, Express, and MongoDB**.
+- 💬 Ask me about **Java, Spring Boot, MySQL**.
 - 📫 How to reach me: **tkprince432@gmail.com**
-- ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
 
 ---
 
