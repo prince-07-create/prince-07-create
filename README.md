@@ -87,16 +87,12 @@ Here are some of the technologies I've been working with recently:
 
 ### 💼 Experience
 
-**Software Engineer @ Tech Solutions Inc.** (Jan 2023 - Present)
-- Developed and maintained scalable microservices using Node.js and TypeScript.
-- Built responsive user interfaces with React and Redux, improving user engagement by 20%.
-- Integrated third-party APIs like Stripe and Twilio for payment and notification services.
-- Wrote unit and integration tests using Jest and React Testing Library, increasing code coverage to 90%.
+**Web Developer Intern at Suggaa** (Feb 2024 - Aug 2024)
+- Developed a Quiz App using Spring Boot which gives CRUD features to the users.
+- Collaborated with a team of 4 to implement RESTful API using Node.js and Spring.
+- Optimized database queries in MySQL, reducing query response time by 15%.
+- Integrated real-time features.
 
-**Junior Web Developer @ Creative Digital Agency** (Jun 2021 - Dec 2022)
-- Collaborated with designers to build client websites using HTML, CSS, and JavaScript.
-- Managed WordPress sites, including theme customization and plugin development.
-- Optimized website performance, achieving a 30% reduction in load times.
 
 ---
 
